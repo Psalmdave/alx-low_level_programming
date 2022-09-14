@@ -1,5 +1,5 @@
-#ifndef _putchar
-#define _putchar
+#ifndef _putchar_m_
+#define _putchar_m_
 
 int _putchar(char);
 void print_alphabet(void);
