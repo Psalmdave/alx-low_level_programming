@@ -1,0 +1,1 @@
+0-isupper.ccode that checks for uppercase characters
